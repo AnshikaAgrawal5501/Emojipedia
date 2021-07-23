@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/emojipedia/static/js/main.be8065ad.chunk.js",
+    "main.js.map": "/emojipedia/static/js/main.be8065ad.chunk.js.map",
+    "runtime-main.js": "/emojipedia/static/js/runtime-main.2f52a8ae.js",
+    "runtime-main.js.map": "/emojipedia/static/js/runtime-main.2f52a8ae.js.map",
+    "static/js/2.054e4e55.chunk.js": "/emojipedia/static/js/2.054e4e55.chunk.js",
+    "static/js/2.054e4e55.chunk.js.map": "/emojipedia/static/js/2.054e4e55.chunk.js.map",
+    "index.html": "/emojipedia/index.html",
+    "static/js/2.054e4e55.chunk.js.LICENSE.txt": "/emojipedia/static/js/2.054e4e55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f52a8ae.js",
+    "static/js/2.054e4e55.chunk.js",
+    "static/js/main.be8065ad.chunk.js"
+  ]
+}
